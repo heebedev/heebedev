@@ -10,6 +10,8 @@ Last Updated: 2020. 02. 23
 
 ---
 
+### 🛠 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-rounded-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-rounded-square&logo=GitLab&logoColor=white"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-rounded-square&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-rounded-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-rounded-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-rounded-square&logo=Python&logoColor=white">
   </p>
@@ -18,9 +20,12 @@ Last Updated: 2020. 02. 23
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-rounded-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-rounded-square&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-rounded-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-rounded-square&logo=ApacheTomcat&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-rounded-square&logo=MySQL&logoColor=white">
 </p>
 
+### 🏆 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heebedev&theme=dracula"> 
 </p>
+
+### 🖊 Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heebedev&layout=compact&theme=dracula"> 
 </p>
