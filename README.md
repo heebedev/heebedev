@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://heeble.io]" target="_blank">
+  <a href="https://heeble.io" target="_blank">
     <img src="https://img.shields.io/badge/blog-https%3A%2F%2Fheeble.io-b98de3">
   </a>
 </p>
